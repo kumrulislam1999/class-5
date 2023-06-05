@@ -1,0 +1,53 @@
+div#Product-1 {
+    background-color: rgb(230, 227, 233);
+    width: 50%;
+    border: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+div#p_image>img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid gray;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
+div#heading>h1 {
+    padding: 20px;
+    font-size: 20px;
+    font-style: italic;
+    color: #ecc2ff;
+    font-family: 'Playfair Display SC', serif;
+}
+
+div#qualification>ul>li {
+    font-size: 20px;
+    line-height: 20px;
+}
+
+
+div#price>p {
+    text-align: center;
+}
+
+li.icon-1,
+li.icon-2 {
+    width: 120px;
+    text-align: center;
+    padding: 5px;
+    display: block;
+    margin-bottom: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px red;
+    border-radius: 5px;
+    background-color: #ecc2ff;
+}
+
+a:hover {
+    background-color: blue;
+}
