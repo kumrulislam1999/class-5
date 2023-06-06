@@ -1,8 +1,6 @@
 div#Product-1 {
     background-color: coral;
-    border: 100px solid rgb(105, 145, 221);
-    width: 50%;
-    height: 70%;
+    border: 100px solid rgb(178, 198, 236);
     padding: 100px;
     margin: 100px;
 }
